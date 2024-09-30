@@ -1,1 +1,3 @@
 # Symptom-Checker-Project
+
+This project will describe a user-friendly website which will help people who wish to learn about their symptoms, find the possible causes of their condition and get assistance in order to get a clearer understanding of the health status, and it also helps in providing resources to get in touch with health care providers. It is a solution-based platform which will give accurate medical advice based on the symptoms provided by the user. The platform will also connect the user with medical professionals for advice and more accurate information regaeding their health related issues or concerns. Furthermore, the Symptom Checker will provide the user with the nearest health facilities for them to collect medication where required.
